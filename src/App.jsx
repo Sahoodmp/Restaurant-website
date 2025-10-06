@@ -4,7 +4,7 @@ function App(){
   return(
     <div>
       <div id="Home">
-        <h1> Restaurant name</h1>
+        <h1>Kairali-restro</h1>
   <nav>
   <a href='#Home'>Home</a>
   <a href='#About'>About</a>
